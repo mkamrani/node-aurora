@@ -1,0 +1,12 @@
+{
+  "name": "aurora",
+  "version": "1.0.0",
+  "description": "A sample NodeJS application to connect to AWS Aurora",
+  "main": "src/index.js",
+  "author": "Mohsen Kamrani",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
